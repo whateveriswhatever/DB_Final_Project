@@ -11,8 +11,8 @@ CREATE TABLE Customer (
 /* DATA INSERTION */
 INSERT INTO Customer (Name, Phone, Gender, Address) 
 VALUES 
-    ('Nguyen Ha Linh', '0901234567', 1, '123 Tran Hưng Dao street, Hoan Kiem district, Hanoi'),
-    ('Nguyen Ngoc Lan', '0902345678', 1, '456 Le Loi street, Hai Bà Trung district, Hanoi'),
+    ('Nguyen Ha Linh', '0901234567', 1, '123 Tran Hung Dao street, Hoan Kiem district, Hanoi'),
+    ('Nguyen Ngoc Lan', '0902345678', 1, '456 Le Loi street, Hai Ba Trung district, Hanoi'),
     ('Nguyen Anh Tuan', '0943758491', 0, 'Thai Binh'),
     ('Phan Nam Khanh', '0954375891', 0, 'Ba Dinh district, Hanoi'),
     ('Le Manh Quang', '0924377245', 0, 'unknown'),
@@ -26,8 +26,8 @@ VALUES
     ('Nguyen Van Dao', '099290121', 0, 'unknown'),
     ('Nguyen Thuy Linh', '0912354891', 1, '69 Tran Hung Dao street, Hoan Kiem district, Hanoi'),
     ('Nguyen Lan Tuong', '0912488129', 1, 'Hoan Kiem district, Hanoi'),
-    ('Tran Anh Phuong', '0900129154', 1, '99 Le Loi street, Hai Ba Trung, Hanoi'),
+    ('Tran Anh Phuong', '0900129154', 1, '99 Le Loi street, Hai Ba Trung district, Hanoi'),
     ('Pham Ngoc Anh', '0912354488', 1, 'Hanoi'),
     ('Bui Thanh Dat', '0931916683', 0, 'Go Vap district, Ho Chi Minh city'),
-    ('Mai Thanh Toan', '0912354448', 0, '42 Mai Hac De street, Hai Ba Trung, Hanoi'),
+    ('Mai Thanh Toan', '0912354448', 0, '42 Mai Hac De street, Hai Ba Trung district, Hanoi'),
     ('Vu Minh Quan', '0935119034', 0, 'Gia Lam district, Hanoi');
