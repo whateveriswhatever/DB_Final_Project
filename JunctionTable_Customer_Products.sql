@@ -31,7 +31,7 @@ VALUES
     (382806, 13, 'unknown', 2, '2024-10-05 16:45:00', 'Debit Card', 1),
     (934488, 14, '69 Tran Hung Dao street, Hoan Kiem district, Hanoi', 1, '2024-11-20 11:50:00', 'Credit Card', 1),
     (412892, 15, 'Hoan Kiem district, Hanoi', 3, '2024-12-01 13:10:00', 'Cash', 1),
-    (602475, 16, '99 Le Loi street, Hai Ba Trung, Hanoi', 2, '2024-12-05 15:00:00', 'Credit Card', 1),
+    (602475, 16, '99 Le Loi street, Hai Ba Trung district, Hanoi', 2, '2024-12-05 15:00:00', 'Credit Card', 1),
     (969837, 17, 'Hanoi', 1, '2024-12-10 17:30:00', 'Debit Card', 1),
     (128121, 18, 'Go Vap district, Ho Chi Minh city', 2, '2024-12-15 10:20:00', 'Cash', 1),
     (676858, 19, 'Gia Lam district, Hanoi', 1, '2024-12-16 12:40:00', 'Credit Card', 1);
